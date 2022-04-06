@@ -1,0 +1,12 @@
+excel.py
+openexcel.py
+/build_windows
+.env
+.idea
+open.exe
+pyinstaller..txt
+cx_freeze.txt
+git remote remove origin
+__pycache__/open.cpython-39.pyc
+__pycache__/container_img.cpython-39.pyc
+
